@@ -1,0 +1,15 @@
+ Add File Associations to Eclipse
+ 
+ 
+ 
+Add .pdf to file associations:
+1. Eclipse --> Window --> Preferences --> General --> Editors --> File Associations --> Add
+   a. Add File type = .pdf
+   b. Associated Editors --> Add --> External programs
+      1. Browse --> SumatraPDF
+            
+Add .docx to file associations:
+1. Eclipse --> Window --> Preferences --> General --> Editors --> File Associations --> Add
+   a. Add File type = .docx
+   b. Associated Editors --> Add --> External programs
+      1. Microsoft Word Document
